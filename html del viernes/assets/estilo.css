@@ -1,0 +1,45 @@
+body{
+    background-color: grey;
+}
+
+
+.encabezado{
+    border: 1px solid;
+    width: 100%;
+    padding: 30px;
+    justify-content: space-between;
+    text-align: center;
+
+}
+
+
+h1{
+    text-align: center;
+}
+
+#almedio{
+    display: flex;
+}
+
+.imagen{
+    text-align: center;
+    width: 50%;
+}
+
+.imagen2{
+    width: 50%;
+    text-align: center;
+    
+}
+
+.mina{
+    text-align: center;
+    margin-top: 1cm;
+}
+
+.pies{
+    border: 1px solid;
+    width: 100%;
+    padding: 2px;
+    text-align: center;
+}
